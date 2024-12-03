@@ -1,0 +1,15 @@
+3 2 5
+SAB
+ab
+S -> AB
+A -> aA
+A -> 
+B -> bB
+B ->
+S
+5
+ab
+aabb
+aaabbbbbbbbb
+aba
+ba

@@ -1,0 +1,9 @@
+1 2 2
+S
+ab
+S-> aSb&S
+S -> 
+S
+2
+aababb
+aabbba

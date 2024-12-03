@@ -1,0 +1,27 @@
+6 2 15
+STRPQY
+ab
+S - >
+S - >     S a S    b S
+T - >
+T - > TaTbT
+T -> bSa
+R ->
+R -> RaRbR
+R -> bTa
+P ->
+P -> PaPbP
+P -> bRa
+Q ->
+Q -> QaQbQ
+Q -> bPa
+Y -> RaPaQ
+Y
+7
+bbbaaaaa
+aaaaabbb
+aabbbabbabaaaa
+aabbbabbbabaaaaa
+baabbbabbabaaaaa
+aabbbabbabaaaabbbbb
+aabbbabbabaaaabbbbabaaaa
