@@ -1,0 +1,19 @@
+2 2 4
+ST
+ab
+S ->
+S -> aSbS
+S -> bSaS
+T -> SaSaS
+T
+10
+aa
+a
+b
+bb
+aab
+abaaba
+aaba
+abbaabbaaaabbbababaa
+abbaabbaaaabbbababa
+babbaabbaaaabbbababaa
